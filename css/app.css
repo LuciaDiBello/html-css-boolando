@@ -125,6 +125,11 @@ img {
 	display: flex;
 }
 
+.s_card {
+	 display:flex;
+	 flex-direction:column;
+}
+
 
 .i-footer {
 	padding: 4px 10px;
